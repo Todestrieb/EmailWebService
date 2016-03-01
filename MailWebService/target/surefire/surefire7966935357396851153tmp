@@ -1,0 +1,7 @@
+#surefire
+#Tue Mar 01 10:04:18 CST 2016
+maven.ext.class.path=C\:\\Users\\ssocial_desarrollo\\AppData\\Roaming\\NetBeans\\8.0.1\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\ssocial_desarrollo\\Documents\\MailWebService
+localRepository=C\:\\Users\\ssocial_desarrollo\\.m2\\repository
+netbeans.deploy=true
+basedir=C\:\\Users\\ssocial_desarrollo\\Documents\\MailWebService
